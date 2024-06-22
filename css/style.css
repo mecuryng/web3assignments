@@ -1,0 +1,38 @@
+h1{
+    background-color: blue;
+    color: blueviolet;
+}
+.form{
+    text-align: center;
+    border-radius: 10px;
+}
+.input{
+    color: black;
+}
+.div{
+    background-image: url(..);
+    background-repeat: no-repeat;
+
+}
+.div2{
+    background-color: rgb(38, 0, 255);
+    height:50vh
+    margin: 30px
+    width: 80%
+}
+.div3{
+    background-color: blue;
+    width:300px;
+    height: 300px;
+    margin: 30px;
+    border-radius: 50%;
+    border:5px solid green;
+    outline: 3px solid blue;
+    outline-offset: 20px;
+}
+.div4{
+    margin: 80px;
+    margin-top: 90px;
+    background-color: blueviolet;
+    border: 5px solid blue;
+}

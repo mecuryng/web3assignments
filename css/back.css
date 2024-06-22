@@ -1,0 +1,57 @@
+.div1{
+    /* background-color: aquamarine; */
+    border: 3px solid black;
+    padding: 8px;
+    margin: 20px;
+}
+.div2{
+    /* background-color: aquamarine; */
+    border-bottom:  3px solid red;
+    padding: 8px;
+    margin: 20px;
+}
+.div3{
+    /* background-color: aquamarine; */
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 8px;
+    margin: 20px;
+}
+.div4{
+    background-color: aquamarine;
+    border-left:  3px solid blue;
+    /* border-radius: 30px; */
+    padding: 8px;
+    margin: 20px;
+}
+.circle{
+    border: 3px solid black;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+.div5{
+    /* background-color: aquamarine; */
+    border: 3px solid black;
+    /* border-radius: 30px; */
+    padding: 8px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    height: 5vh;
+}
+.div6{
+    background-color: blue;
+    border-top: 50px red solid;
+    margin:auto 200px;
+    height: 30vh;
+    color: white;
+    font-size:50px;
+    /* text-align: center; */
+    padding: 20px;
+}
+.div7{
+    border-bottom:  5px solid red;
+    padding: 8px;
+    margin: 20px;
+}
