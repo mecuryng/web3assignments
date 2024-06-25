@@ -55,3 +55,33 @@
     padding: 8px;
     margin: 20px;
 }
+.section1{
+    background-image: url(../img_sally/sally_7.jpg);
+    height: 200vh;
+    width: 100%;
+    /* border: solid 5px; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    
+}
+.section2{
+    background-image: url(../img_sally/sally_2.jpg);
+    height: 200vh;
+    width: 100%;
+    /* border: 5px solid; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    
+}
+.section3{
+    background-image: url(../img_sally/sally_3.jpg);
+    height: 200vh;
+    width: 100%;
+    /* border: 5px solid; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    
+}
