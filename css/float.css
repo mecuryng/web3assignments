@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+.nav{
+   padding: 10px 50px; 
+   position: sticky;
+   top: 0;
+   background-color: aqua;
+   background-image: linear-gradient(to right, rgba(132, 0, 255, 0.151),rgb(218, 153, 218)), url(../img_sally/sally_5.jpg);
+   height: 50vh;
+   background-position: 80% 100%;
+
+}
+.logo{
+    float: left;
+    font-size: 10px;
+    color: aliceblue;
+}
+.nav1{
+    float: right;
+}
+.nav1 a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+.more{
+    clear: both;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    transition: all 2s ease-in-out ;
+}
+.more:hover{
+    transform: translate(20px, 30px);
+}
+.activ1{
+    border: 1px;
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    color: white;
+    text-align: center;
+    /* background-image: linear-gradient(to right, yellow), url(../img_sally/sally_5.jpg); */
+    background-image: linear-gradient(to right, rgba(167, 209, 17, 0.788),rgb(175, 165, 20)), url(../img_sally/sally_5.jpg);
+
+}
+.activ2{
+    border: 1px;
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    color: white;
+    text-align: center;
+    /* background-image: linear-gradient(to right, black), url(../images/pic-2.png); */
+    background-image: linear-gradient(to right, rgba(7, 1, 14, 0.151),rgb(14, 1, 14)), url(../img_sally/sally_5.jpg);
+
+}
+.activ3{
+    border: 1px;
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    color: white;
+    text-align: center;
+    /* background-image: linear-gradient(to right, green), url(../images/pic-3.png); */
+    background-image: linear-gradient(to right, rgba(16, 233, 16, 0.151),rgb(7, 179, 79)), url(../img_sally/sally_5.jpg);
+
+}
+.diva{
+    /* align-content: center; */
+  
+    /* border: 10px; */
+    /* background-color: blue; */
+    width: 100%;
+
+}
+.clearfix::after {
+
+    clear: both;
+    
+  }
